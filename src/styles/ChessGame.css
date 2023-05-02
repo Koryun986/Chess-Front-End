@@ -1,0 +1,39 @@
+.Chess {
+    margin: 20px 30px 0;
+}
+
+.Chess_header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Chess_game_id {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Chess_gamer_color {
+    font-size: 30px;
+}
+
+.Chess_game_started {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Chess_container {
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Chess_game_turn {
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
